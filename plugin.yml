@@ -1,0 +1,7 @@
+---
+name: performancetests
+version: 0.0.1
+main: kingofturkey38\performancetests\Main
+api: 4.0.3
+src-namespace-prefix: kingofturkey38\performancetests
+...
