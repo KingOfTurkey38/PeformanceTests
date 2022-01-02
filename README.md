@@ -3,14 +3,14 @@ A plugin to test Server->getPlayerExact() vs Map&lt;username, Player> performanc
 
 
 # Timings with Server->getPlayerExact()
-https://timings.pmmp.io/?id=183047
-https://timings.pmmp.io/?id=183048
-https://timings.pmmp.io/?id=183049
+- https://timings.pmmp.io/?id=183047
+- https://timings.pmmp.io/?id=183048
+- https://timings.pmmp.io/?id=183049
 
 # Timings with Map<username, Player>
-https://timings.pmmp.io/?id=183050
-https://timings.pmmp.io/?id=183051
-https://timings.pmmp.io/?id=183052
+- https://timings.pmmp.io/?id=183050
+- https://timings.pmmp.io/?id=183051
+- https://timings.pmmp.io/?id=183052
 
 # Testing proccess 
 I used FakePlayer (https://github.com/Muqsit/FakePlayer) to spawn in 100 fake players that don't move or do anything
